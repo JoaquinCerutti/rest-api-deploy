@@ -1,2 +1,2 @@
 # rest-api-deploy
-API básica con NodeJS desplegada en Vercel.
+API básica con NodeJS desplegada en Render.
